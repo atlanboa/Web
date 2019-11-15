@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.GenericServlet"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+<fullyQualifiedTypeName name="org.eclipse.jdt.internal.compiler.batch.Main"/>
+<fullyQualifiedTypeName name="controller.SearchMemberServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.Filter"/>
+<fullyQualifiedTypeName name="javax.xml.ws.WebFault"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebInitParam"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="model.MemberDAO"/>
+<fullyQualifiedTypeName name="model.MemberVO"/>
+<fullyQualifiedTypeName name="vo.FormVO"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="org.apache.catalina.util.ServerInfo"/>
+<fullyQualifiedTypeName name="com.ssafy.book.UserVO"/>
+<fullyQualifiedTypeName name="com.ssafy.book.LoginDAO"/>
+<fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+<fullyQualifiedTypeName name="com.ssafy.book.BookMgr"/>
+<fullyQualifiedTypeName name="model.Member"/>
+<fullyQualifiedTypeName name="model.MemberDAOImpl"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="model.Book"/>
+<fullyQualifiedTypeName name="model.BookDAOImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="config.ServerInfo"/>
+<fullyQualifiedTypeName name="com.ssafy.dao.UserDaoImpl"/>
+<fullyQualifiedTypeName name="com.ssafy.vo.UserVO"/>
+<fullyQualifiedTypeName name="com.ssafy.dao.FoodDaoImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+</qualifiedTypeNameHistroy>

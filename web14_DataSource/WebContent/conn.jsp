@@ -1,0 +1,28 @@
+
+<%@page import="javax.naming.InitialContext"%>
+<%@page import="javax.naming.Context"%>
+<%@page import="javax.sql.DataSource"%>
+<%@page import="java.sql.Connection"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ConnectionPool에서 하나의 Connection을 받아오는 로직</title>
+</head>
+<body>
+<h2>ConnectionPool Test..</h2>
+<%
+	Connection conn = null;
+	//1. NamingService을 사용
+	//javax.naming context의 lookup()으로 찾아온다.
+	Context ic = new InitialContext();
+	DataSource ds = (DataSource)ic.lookup("java:comp/env/jdbc/mysql");
+	//DataSource가 공장 한개, 여기서 Connection을 하나 가져옴
+	out.println("DataSource...Lookup...");
+	conn = ds.getConnection();
+	out.println("Connection ok..");
+%>
+</body>
+</html>

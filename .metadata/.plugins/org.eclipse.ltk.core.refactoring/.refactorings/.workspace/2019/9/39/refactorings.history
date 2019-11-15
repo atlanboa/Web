@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Tproject02&apos;" deleteContents="false" description="Delete resource &apos;Tproject02&apos;" element1="/Tproject02" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1569396995808"/>&#x0A;<refactoring comment="Delete resource &apos;SafeFood_Web_Front_구미_2반_최성영_박재동&apos;" deleteContents="false" description="Delete resource &apos;SafeFood_Web_Front_구미_2반_최성영_박재동&apos;" element1="/SafeFood_Web_Front_구미_2반_최성영_박재동" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1569397054659"/>
+</session>

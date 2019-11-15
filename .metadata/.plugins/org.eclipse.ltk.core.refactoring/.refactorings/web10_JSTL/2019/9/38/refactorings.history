@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;web10_JSTL/WebContent/NewFile.jsp&apos; to &apos;sample.jsp&apos;" description="Rename resource &apos;NewFile.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/NewFile.jsp" name="sample.jsp" stamp="1568943834070" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;web10_JSTL/WebContent/cForeach+result.jsp&apos; to &apos;cForeach_result.jsp&apos;" description="Rename resource &apos;cForeach+result.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/cForeach+result.jsp" name="cForeach_result.jsp" stamp="1568947154903" updateReferences="true"/>
+</session>

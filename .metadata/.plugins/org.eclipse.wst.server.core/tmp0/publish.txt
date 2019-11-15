@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Oct 11 15:06:36 KST 2019
+org.eclipse.jst.jee.server\:web14_DataSource=C\:\\ssafy\\apache-tomcat-8.5.38\\webapps\\web14_DataSource
+org.eclipse.jst.jee.server\:friproject_0926=C\:\\ssafy\\apache-tomcat-8.5.38\\webapps\\friproject_0926
+org.eclipse.jst.jee.server\:web12_ReviewFriproject=C\:\\ssafy\\apache-tomcat-8.5.38\\webapps\\web12_ReviewFriproject

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;vo&apos; to &apos;web10_JSTL/src&apos;&#x0D;&#x0A;- Original project: &apos;web09_El&apos;&#x0D;&#x0A;- Destination element: &apos;web10_JSTL/src&apos;&#x0D;&#x0A;- Original element: &apos;web09_El/src/vo&apos;" description="Copy package" destination="=web10_JSTL/src" element1="/src&lt;vo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1568946752429" version="1.0"/>
+</session>
